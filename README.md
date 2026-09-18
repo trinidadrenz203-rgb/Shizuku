@@ -1,3 +1,4 @@
+gh repo clone RikkaApps/Shizuku
 # Shizuku
 
 ## Background
